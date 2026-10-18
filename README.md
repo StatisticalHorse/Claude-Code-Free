@@ -1,0 +1,1 @@
+All you have to do is copy the contents of **setup-claude-pc-agent-prompt.md** into a new Claude session on the desktop app, then it should guide you through the setup process.
